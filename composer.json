@@ -1,9 +1,10 @@
 {
     "name": "designbycode/luhn-algorithm",
-    "description": "This is my package luhn-algorithm",
+    "description": "The Luhn Algorithm is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, and others. This documentation provides an overview of the Luhn Algorithm implementation in PHP, including examples and use cases.",
     "keywords": [
         "designbycode",
-        "luhn-algorithm"
+        "luhn-algorithm",
+        "luhn algorithm"
     ],
     "homepage": "https://github.com/designbycode/luhn-algorithm",
     "license": "MIT",
